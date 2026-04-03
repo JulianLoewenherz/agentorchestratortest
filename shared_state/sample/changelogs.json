@@ -1,0 +1,30 @@
+{
+  "agent": "changelog",
+  "run_at": "2026-04-03T10:00:00Z",
+  "competitors": {
+    "Linear": {
+      "latest_entry": "Cycles & Roadmaps overhaul",
+      "date": "2026-03-28",
+      "summary": "Linear shipped a major overhaul of Cycles and Roadmaps, introducing drag-and-drop prioritization, cross-team dependencies, and a new timeline swimlane view. Additionally, they launched GitHub Copilot integration for auto-generating issue descriptions.",
+      "raw_entries": [
+        "Cycles & Roadmaps overhaul - 2026-03-28",
+        "GitHub Copilot integration for issue descriptions - 2026-03-20",
+        "Improved mobile app performance - 2026-03-14",
+        "New API rate limit increases - 2026-03-07",
+        "Slack notification bunching - 2026-02-28"
+      ]
+    },
+    "Notion": {
+      "latest_entry": "Notion AI: Chart generation from tables",
+      "date": "2026-03-30",
+      "summary": "Notion added AI-powered chart generation directly from database tables, allowing users to create bar, line, and pie charts with a single prompt. They also launched shared AI blocks that update for all viewers simultaneously.",
+      "raw_entries": [
+        "Notion AI: Chart generation from tables - 2026-03-30",
+        "Shared AI blocks (collaborative AI) - 2026-03-22",
+        "Improved PDF export fidelity - 2026-03-15",
+        "New database roll-up formulas - 2026-03-08",
+        "API v3 beta with webhooks - 2026-03-01"
+      ]
+    }
+  }
+}

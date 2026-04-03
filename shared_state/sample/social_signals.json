@@ -1,0 +1,54 @@
+{
+  "agent": "social",
+  "run_at": "2026-04-03T10:00:00Z",
+  "competitors": {
+    "Linear": {
+      "twitter_handle": "linear_app",
+      "profile_url": "https://twitter.com/linear_app",
+      "recent_posts": [
+        {
+          "text": "Cycles just got a whole lot more powerful. Drag issues across cycles, set team-level goals, and track progress in the new swimlane view. Available now for all plans.",
+          "engagement": "high",
+          "date": "2026-03-28"
+        },
+        {
+          "text": "Linear + GitHub Copilot: describe your issue in plain language and let Copilot fill in the details. One less thing to think about.",
+          "engagement": "very_high",
+          "date": "2026-03-20"
+        },
+        {
+          "text": "We're hiring! Staff ML Engineer to work on our AI features. Remote-friendly. Link in bio.",
+          "engagement": "medium",
+          "date": "2026-03-18"
+        }
+      ],
+      "sentiment": "positive",
+      "themes": ["AI integration", "developer experience", "product velocity"],
+      "follower_signal": "Growing engagement on AI-related posts vs. core product posts"
+    },
+    "Notion": {
+      "twitter_handle": "NotionHQ",
+      "profile_url": "https://twitter.com/NotionHQ",
+      "recent_posts": [
+        {
+          "text": "Turn any table into a chart in seconds. Just ask Notion AI. No formulas, no third-party tools, no waiting.",
+          "engagement": "very_high",
+          "date": "2026-03-30"
+        },
+        {
+          "text": "Notion is now HIPAA compliant for Enterprise customers. Your healthcare workflows, now in Notion.",
+          "engagement": "high",
+          "date": "2026-03-25"
+        },
+        {
+          "text": "We're opening an office in Tokyo. Notion for everyone, everywhere.",
+          "engagement": "high",
+          "date": "2026-03-19"
+        }
+      ],
+      "sentiment": "positive",
+      "themes": ["AI-first", "enterprise expansion", "global growth"],
+      "follower_signal": "Enterprise and compliance announcements performing strongly - signaling B2B pivot focus"
+    }
+  }
+}

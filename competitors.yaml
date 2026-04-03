@@ -1,0 +1,13 @@
+competitors:
+  - name: Linear
+    website: https://linear.app
+    changelog_url: https://linear.app/changelog
+    pricing_url: https://linear.app/pricing
+    jobs_url: https://linear.app/jobs
+    twitter_handle: linear_app
+  - name: Notion
+    website: https://notion.so
+    changelog_url: https://www.notion.so/releases
+    pricing_url: https://www.notion.so/pricing
+    jobs_url: https://www.notion.so/careers
+    twitter_handle: NotionHQ
