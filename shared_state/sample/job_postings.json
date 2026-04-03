@@ -1,0 +1,54 @@
+{
+  "agent": "jobs",
+  "run_at": "2026-04-03T10:00:00Z",
+  "competitors": {
+    "Linear": {
+      "total_openings": 14,
+      "departments": {
+        "Engineering": 8,
+        "Design": 2,
+        "Sales": 1,
+        "Marketing": 1,
+        "Operations": 2
+      },
+      "notable_roles": [
+        "Staff ML Engineer - Inference",
+        "Senior Engineer - AI Features",
+        "Product Designer - Mobile",
+        "Head of Revenue Operations",
+        "Senior Engineer - Platform"
+      ],
+      "locations": ["Remote (US)", "San Francisco, CA", "New York, NY"],
+      "hiring_signals": [
+        "Heavy ML/AI investment: 3 of 8 eng roles are AI-focused",
+        "Revenue operations hire suggests scaling go-to-market motion",
+        "No enterprise sales roles - staying product-led growth"
+      ]
+    },
+    "Notion": {
+      "total_openings": 31,
+      "departments": {
+        "Engineering": 12,
+        "Sales": 7,
+        "Marketing": 4,
+        "Design": 2,
+        "Operations": 3,
+        "Customer Success": 3
+      },
+      "notable_roles": [
+        "Enterprise Account Executive (x4)",
+        "Staff Engineer - Notion AI",
+        "Director of Enterprise Sales",
+        "Head of Customer Success - EMEA",
+        "Principal ML Engineer"
+      ],
+      "locations": ["San Francisco, CA", "New York, NY", "Dublin, Ireland", "Tokyo, Japan"],
+      "hiring_signals": [
+        "Enterprise push: 4 AE roles + Director of Enterprise Sales",
+        "EMEA expansion: Customer Success Head in Dublin",
+        "APAC expansion signals: Tokyo office roles",
+        "Notion AI team growing (Staff + Principal ML roles)"
+      ]
+    }
+  }
+}

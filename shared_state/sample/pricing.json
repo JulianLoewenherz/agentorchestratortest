@@ -1,0 +1,77 @@
+{
+  "agent": "pricing",
+  "run_at": "2026-04-03T10:00:00Z",
+  "competitors": {
+    "Linear": {
+      "plans": [
+        {
+          "name": "Free",
+          "price_monthly": 0,
+          "price_annual": 0,
+          "features": ["Up to 250 issues", "1 active cycle", "Integrations", "Basic analytics"]
+        },
+        {
+          "name": "Standard",
+          "price_monthly": 8,
+          "price_annual": 6,
+          "features": ["Unlimited issues", "Unlimited cycles", "Roadmaps", "Advanced analytics", "Priority support"]
+        },
+        {
+          "name": "Plus",
+          "price_monthly": 16,
+          "price_annual": 12,
+          "features": ["Everything in Standard", "Custom roles", "SAML SSO", "Advanced security", "SLA support"]
+        },
+        {
+          "name": "Enterprise",
+          "price_monthly": null,
+          "price_annual": null,
+          "features": ["Custom pricing", "Dedicated CSM", "Custom contracts", "Audit logs", "99.9% SLA"]
+        }
+      ],
+      "price_changes": [],
+      "currency": "USD",
+      "notes": "Annual billing saves ~25%. No recent price changes detected."
+    },
+    "Notion": {
+      "plans": [
+        {
+          "name": "Free",
+          "price_monthly": 0,
+          "price_annual": 0,
+          "features": ["Unlimited pages", "7-day history", "5 guests", "Basic integrations"]
+        },
+        {
+          "name": "Plus",
+          "price_monthly": 12,
+          "price_annual": 8,
+          "features": ["Unlimited history", "100 guests", "Custom domains (beta)", "Notion AI add-on available"]
+        },
+        {
+          "name": "Business",
+          "price_monthly": 18,
+          "price_annual": 15,
+          "features": ["SAML SSO", "Advanced permissions", "Audit log", "Notion AI included"]
+        },
+        {
+          "name": "Enterprise",
+          "price_monthly": null,
+          "price_annual": null,
+          "features": ["Custom pricing", "Advanced security", "Dedicated support", "Custom contracts"]
+        }
+      ],
+      "price_changes": [
+        {
+          "plan": "Business",
+          "field": "price_annual",
+          "old_value": 13,
+          "new_value": 15,
+          "detected_at": "2026-03-15T00:00:00Z",
+          "note": "Annual price increased from $13 to $15/user/month"
+        }
+      ],
+      "currency": "USD",
+      "notes": "Business plan annual price increased ~15% in mid-March 2026. Notion AI now bundled in Business tier (previously add-on)."
+    }
+  }
+}
